@@ -1,5 +1,5 @@
 # Data-Analysis
-Summer Internship Work at IIT Ropar under Dr Dhiraj K Mahajan, Dr Asad H Sahir and Dr. Shreekant S. Padhee
+Summer Internship Work at IIT Ropar under Dr. Dhiraj K Mahajan, Dr. Asad H Sahir and Dr. Srikant S. Padhee.
 
 The following python code is written to analyze 1039 pre-final and final year students' data.
 The data was collected under TEQIP,Phase III and contained demographic details, Class X, class XII and B.Tech CGPA along with other confidential details. 
@@ -14,6 +14,9 @@ Following libraries were used for data Exploration to data Visualization
 |Handling Categorical Data  | Sklearn.preprocessing    |
 |Statistics                 | Statistics               |
 |Saving Figures in tiff     | Image                    |         
+
+## Work 2.0
+kindly visit Rewarding students for my work under the same project where I wrote a code to select random students who filled a survey.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
